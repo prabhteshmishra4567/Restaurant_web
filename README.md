@@ -73,6 +73,6 @@ If you want to use this project in a way that is not covered by the above terms,
 
 For any questions, suggestions, or collaboration inquiries, feel free to reach out:
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/prabhteshmishra4567/)
-- **GitHub**: [Your GitHub Profile](https://github.com/prabhteshmishra4567)
+- **LinkedIn**: [PRABHTESH MISHRA](https://www.linkedin.com/in/prabhteshmishra4567/)
+- **GitHub**: [PRABHTESH MISHRA](https://github.com/prabhteshmishra4567)
 
